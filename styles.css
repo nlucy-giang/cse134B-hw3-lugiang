@@ -54,7 +54,7 @@ nav {
       text-decoration: none;
       color: #2D2D33;
 
-      & :hover {
+      &:hover {
         color: #485A78;
       }
   }
@@ -65,7 +65,7 @@ nav {
     margin-left: 10%;
     font-size: 22px;
 
-    & :hover {
+    &:hover {
       transform: scale(1.2) rotate(20deg);
     }
   }
